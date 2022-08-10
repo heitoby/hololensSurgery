@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.input": {
+      "tarball": {
+        "hash": "c707ff4d69e7",
+        "mtime": 1659402813512,
+        "size": 1659912,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.input-0.9.2006.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "cc778a815d9b",
+        "mtime": 1660142860524,
+        "size": 11754300,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.4.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "c47efbe1f8cd",
+        "mtime": 1658977211984,
+        "size": 55085272,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "07db80b5ea14",
+        "mtime": 1658977202474,
+        "size": 1129390,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1658977205419,
+        "size": 11554543,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1658977205721,
+        "size": 5302738,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "e20aa4fa377a",
+        "mtime": 1658977204463,
+        "size": 2107313,
+        "localPath": "C:\\Users\\tobyl\\hololensproj\\ros2v2\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.2.tgz"
+      }
+    }
+  }
+}
